@@ -4,8 +4,7 @@
 # dependencies
 node_modules/
 
-# lock file
-package-lock.json
+
 
 # OS / editor files (optional but good)
 .DS_Store
